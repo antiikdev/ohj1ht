@@ -1,0 +1,9 @@
+
+- tee fysiikkaobjektit (törmäys automaattisesti)
+- Tavoite: jotain näytölle näkyviin ja näytöllä liikkuu sekä ehkä törmäyksiä
+-  sydämmet liikumaan
+- pelaajien nimet ja alkuvalikko loppuun jos jää aikaa. Top listi olemassa valmiina
+
+SISÄLLYTÄ:
+silmukka
+taulukko
